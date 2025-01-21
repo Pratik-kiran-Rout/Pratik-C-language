@@ -15,5 +15,4 @@ int main(){
     printf("Enter the number ");
     scanf("%d",&num);
     helloHW(num); // argumrents 
-
 }        // it is called function recursion 
